@@ -1,3 +1,3 @@
 # Trapped in Egypt
-## Ludum Dare 40
-### Theme: The more you have, the worse it is
+## Ludum Dare 36
+### Theme: Ancient Technology
