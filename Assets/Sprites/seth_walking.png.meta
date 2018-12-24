@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 9b40be38962335346b93f6fb76592ed5
+timeCreated: 1472359219
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: seth_walking_0
+    21300002: seth_walking_1
+    21300004: seth_walking_2
+    21300006: seth_walking_3
+    21300008: seth_walking_4
+    21300010: seth_walking_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: seth_walking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.8, y: 16}
+        - {x: 44.8, y: 12}
+        - {x: 53.8, y: 56}
+        - {x: -20.2, y: 56}
+        - {x: -41.2, y: 25}
+        - {x: -41.2, y: -46}
+        - {x: -26.2, y: -48}
+        - {x: -23.2, y: -46}
+        - {x: -28.2, y: -50}
+        - {x: -37.2, y: -58}
+        - {x: -40.2, y: -64}
+        - {x: 56.8, y: -64}
+        - {x: 66.8, y: -46}
+        - {x: 66.8, y: 14}
+        - {x: 64.8, y: 14}
+      - - {x: -49.2, y: -44}
+        - {x: -46.2, y: -43}
+        - {x: -46.2, y: -40}
+        - {x: -49.2, y: -39}
+        - {x: -51.2, y: -41}
+    - name: seth_walking_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.199997, y: -59}
+        - {x: -36.199997, y: -63}
+        - {x: -35.199997, y: -64}
+        - {x: -32.199997, y: -64}
+        - {x: -30.199997, y: -62}
+        - {x: -30.199997, y: -60}
+        - {x: -32.199997, y: -58}
+      - - {x: 48.800003, y: 16}
+        - {x: 44.800003, y: 12}
+        - {x: 53.800003, y: 56}
+        - {x: -29.199997, y: 56}
+        - {x: -41.199997, y: 45}
+        - {x: -41.199997, y: -64}
+        - {x: 56.800003, y: -64}
+        - {x: 66.8, y: -45}
+        - {x: 66.8, y: 13}
+        - {x: 64.8, y: 14}
+      - - {x: -39.199997, y: -61}
+        - {x: -36.199997, y: -60}
+        - {x: -36.199997, y: -57}
+        - {x: -39.199997, y: -56}
+        - {x: -41.199997, y: -58}
+      - - {x: -23.199997, y: -60}
+        - {x: -20.199997, y: -59}
+        - {x: -20.199997, y: -56}
+        - {x: -23.199997, y: -55}
+        - {x: -25.199997, y: -57}
+    - name: seth_walking_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.200012, y: -56}
+        - {x: -35.200012, y: -58}
+        - {x: -35.200012, y: -60}
+        - {x: -30.200012, y: -64}
+        - {x: -22.200012, y: -64}
+        - {x: -21.200012, y: -61}
+        - {x: -21.200012, y: -58}
+        - {x: -29.200012, y: -55}
+      - - {x: -22.200012, y: 57}
+        - {x: -27.200012, y: 55}
+        - {x: -41.200012, y: 20}
+        - {x: -41.200012, y: -47}
+        - {x: -24.200012, y: -64}
+        - {x: 30.799988, y: -64}
+        - {x: 33.799988, y: -63}
+        - {x: 66.79999, y: -36}
+        - {x: 66.79999, y: 57}
+    - name: seth_walking_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.79999, y: -9}
+        - {x: 66.79999, y: -4}
+        - {x: 66.79999, y: 9}
+        - {x: 64.79999, y: 14}
+        - {x: 48.799988, y: 16}
+        - {x: 44.799988, y: 12}
+        - {x: 53.799988, y: 56}
+        - {x: -21.200012, y: 56}
+        - {x: -41.200012, y: 22}
+        - {x: -41.200012, y: -48}
+        - {x: -20.200012, y: -64}
+        - {x: 41.799988, y: -64}
+        - {x: 43.799988, y: -58}
+        - {x: 33.799988, y: -51}
+        - {x: 27.799988, y: -49}
+      - - {x: -36.200012, y: -58}
+        - {x: -37.200012, y: -62}
+        - {x: -35.200012, y: -64}
+        - {x: -34.200012, y: -64}
+        - {x: -31.200012, y: -61}
+        - {x: -31.200012, y: -59}
+        - {x: -33.200012, y: -57}
+      - - {x: -40.200012, y: -60}
+        - {x: -37.200012, y: -59}
+        - {x: -37.200012, y: -56}
+        - {x: -40.200012, y: -55}
+        - {x: -42.200012, y: -57}
+    - name: seth_walking_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.2, y: -56}
+        - {x: -35.2, y: -58}
+        - {x: -35.2, y: -60}
+        - {x: -30.2, y: -64}
+        - {x: -22.2, y: -64}
+        - {x: -21.2, y: -61}
+        - {x: -21.2, y: -58}
+        - {x: -29.2, y: -55}
+      - - {x: -31.2, y: 57}
+        - {x: -41.2, y: 28}
+        - {x: -41.2, y: -55}
+        - {x: -35.2, y: -64}
+        - {x: 32.8, y: -64}
+        - {x: 66.8, y: -44}
+        - {x: 66.8, y: 57}
+    - name: seth_walking_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.199997, y: -59}
+        - {x: -36.199997, y: -63}
+        - {x: -35.199997, y: -64}
+        - {x: -32.199997, y: -64}
+        - {x: -30.199997, y: -62}
+        - {x: -30.199997, y: -60}
+        - {x: -32.199997, y: -58}
+      - - {x: 48.800003, y: 16}
+        - {x: 44.800003, y: 12}
+        - {x: 53.800003, y: 56}
+        - {x: -20.199997, y: 56}
+        - {x: -41.199997, y: 25}
+        - {x: -41.199997, y: -60}
+        - {x: -26.199997, y: -64}
+        - {x: 58.800003, y: -64}
+        - {x: 59.800003, y: -62}
+        - {x: 66.8, y: -15}
+        - {x: 66.8, y: 21}
+      - - {x: -39.199997, y: -61}
+        - {x: -36.199997, y: -60}
+        - {x: -36.199997, y: -57}
+        - {x: -39.199997, y: -56}
+        - {x: -41.199997, y: -58}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

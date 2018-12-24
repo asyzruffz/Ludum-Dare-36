@@ -410,7 +410,7 @@ namespace Prototype.NetworkLobby
         {
             base.OnClientDisconnect(conn);
             ChangeTo(mainMenuPanel);
-        }
+		}
 
         public override void OnClientError(NetworkConnection conn, int errorCode)
         {
