@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: f880d8290b929134baf0c6583d4a555e
+timeCreated: 1472328121
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: horus_walking_0
+    21300002: horus_walking_1
+    21300004: horus_walking_2
+    21300006: horus_walking_3
+    21300008: horus_walking_4
+    21300010: horus_walking_5
+    21300012: horus_walking_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: horus_walking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.200001, y: 64}
+        - {x: -40.2, y: -5}
+        - {x: -40.2, y: -64}
+        - {x: 40.8, y: -64}
+        - {x: 51.8, y: -49}
+        - {x: 51.8, y: 19}
+        - {x: 32.8, y: 64}
+    - name: horus_walking_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.199997, y: 64}
+        - {x: -40.199997, y: -1}
+        - {x: -40.199997, y: -50}
+        - {x: -31.199997, y: -64}
+        - {x: 41.800003, y: -64}
+        - {x: 51.800003, y: -50}
+        - {x: 51.800003, y: 19}
+        - {x: 32.800003, y: 64}
+    - name: horus_walking_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.200012, y: 64}
+        - {x: -40.200012, y: 12}
+        - {x: -40.200012, y: -44}
+        - {x: -14.200012, y: -64}
+        - {x: 26.799988, y: -64}
+        - {x: 51.799988, y: -51}
+        - {x: 51.799988, y: 64}
+    - name: horus_walking_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.799988, y: 64}
+        - {x: -5.200012, y: 64}
+        - {x: -40.200012, y: -1}
+        - {x: -40.200012, y: -58}
+        - {x: -37.200012, y: -64}
+        - {x: 32.799988, y: -64}
+        - {x: 45.799988, y: -60}
+        - {x: 51.799988, y: -35}
+        - {x: 51.799988, y: 20}
+        - {x: 25.799988, y: 58}
+    - name: horus_walking_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.8, y: 63.5}
+        - {x: -14.200001, y: 63.5}
+        - {x: -40.2, y: 11.5}
+        - {x: -40.2, y: -44.5}
+        - {x: -22.2, y: -63.5}
+        - {x: 25.8, y: -63.5}
+        - {x: 25.8, y: -59.5}
+        - {x: 51.8, y: -32.5}
+        - {x: 51.8, y: 19.5}
+    - name: horus_walking_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.800003, y: 63.5}
+        - {x: -7.199997, y: 63.5}
+        - {x: -27.199997, y: 34.5}
+        - {x: -40.199997, y: 0.5}
+        - {x: -40.199997, y: -47.5}
+        - {x: -31.199997, y: -63.5}
+        - {x: 43.800003, y: -63.5}
+        - {x: 51.800003, y: -49.5}
+        - {x: 51.800003, y: 22.5}
+        - {x: 38.800003, y: 59.5}
+    - name: horus_walking_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 62
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

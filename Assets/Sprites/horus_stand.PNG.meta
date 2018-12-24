@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 47b833ec0793c6641b5eacf455ad8d4c
+timeCreated: 1472321820
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: horus_stand_0
+    21300002: horus_stand_1
+    21300004: horus_stand_2
+    21300006: horus_stand_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: horus_stand_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4000015, y: 54}
+        - {x: -38.4, y: -28}
+        - {x: -38.4, y: -64}
+        - {x: 50.6, y: -64}
+        - {x: 60.6, y: -54}
+        - {x: 60.6, y: 13}
+        - {x: 40.6, y: 54}
+    - name: horus_stand_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.600006, y: 53}
+        - {x: 4.600006, y: 53}
+        - {x: -20.399994, y: 13}
+        - {x: -38.399994, y: -54}
+        - {x: -38.399994, y: -64}
+        - {x: 39.600006, y: -64}
+        - {x: 60.600006, y: -46}
+        - {x: 60.600006, y: 15}
+    - name: horus_stand_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.4000015, y: 54}
+        - {x: -38.4, y: -28}
+        - {x: -38.4, y: -64}
+        - {x: 50.6, y: -64}
+        - {x: 60.6, y: -54}
+        - {x: 60.6, y: 13}
+        - {x: 40.6, y: 54}
+    - name: horus_stand_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.600006, y: 53}
+        - {x: 4.600006, y: 53}
+        - {x: -20.399994, y: 13}
+        - {x: -38.399994, y: -54}
+        - {x: -38.399994, y: -64}
+        - {x: 39.600006, y: -64}
+        - {x: 60.600006, y: -46}
+        - {x: 60.600006, y: 15}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
